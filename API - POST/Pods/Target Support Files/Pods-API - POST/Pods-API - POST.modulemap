@@ -1,0 +1,6 @@
+framework module Pods_API___POST {
+  umbrella header "Pods-API - POST-umbrella.h"
+
+  export *
+  module * { export * }
+}
